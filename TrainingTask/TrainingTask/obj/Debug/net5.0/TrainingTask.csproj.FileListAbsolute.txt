@@ -1,0 +1,15 @@
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/bin/Debug/net5.0/TrainingTask.deps.json
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/bin/Debug/net5.0/TrainingTask.runtimeconfig.json
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/bin/Debug/net5.0/TrainingTask.runtimeconfig.dev.json
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/bin/Debug/net5.0/TrainingTask.dll
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/bin/Debug/net5.0/ref/TrainingTask.dll
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/bin/Debug/net5.0/TrainingTask.pdb
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/obj/Debug/net5.0/TrainingTask.csprojAssemblyReference.cache
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/obj/Debug/net5.0/TrainingTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/obj/Debug/net5.0/TrainingTask.AssemblyInfoInputs.cache
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/obj/Debug/net5.0/TrainingTask.AssemblyInfo.cs
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/obj/Debug/net5.0/TrainingTask.csproj.CoreCompileInputs.cache
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/obj/Debug/net5.0/TrainingTask.dll
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/obj/Debug/net5.0/ref/TrainingTask.dll
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/obj/Debug/net5.0/TrainingTask.pdb
+/Users/eliaorlova/RiderProjects/TrainingTask/TrainingTask/obj/Debug/net5.0/TrainingTask.genruntimeconfig.cache
